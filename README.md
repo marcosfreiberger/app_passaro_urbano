@@ -1,9 +1,10 @@
-<h1 align = "center"> :fast_forward: Learning English :rewind: </h1>
+<h1 align = "center"> :fast_forward: Urban Bird :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/48637568/91925302-17bc4a80-ecab-11ea-9c1f-203830aed59d.jpg" width = "700">
 </p>
+---
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/48637568/91925379-3de1ea80-ecab-11ea-85a4-76f5168459ca.jpg" width = "700">
 </p>
